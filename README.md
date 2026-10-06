@@ -30,7 +30,9 @@ The player can choose:
 <p align="center">
   <img src="media/demo.gif" alt="Gameplay Demo" width="520">
 </p>
+
 ---
+
 
 ## Features
 
